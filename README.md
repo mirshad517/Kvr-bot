@@ -1,3 +1,6 @@
+[![Deploy to heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mirshad517/Kvr-bot.git)
+
+
 <p align="center">
 <img src="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/Professor-99/DONLEE-ROBOT-V2/DonLee_Robot.jpg" alt="DonLeeLogo">
 </p>
